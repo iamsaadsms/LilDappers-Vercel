@@ -1,0 +1,38 @@
+/* Button.css */
+
+.common-btn {
+    width: 20vw;
+    height: 7vh;
+    border: 1px solid rgba(97, 91, 91, 0.4);
+    background-color: rgb(97, 91, 91);
+    font-weight: light;
+    font-size: 3vh;
+    letter-spacing: 2px;
+    color: #FFF;
+    transition: color 0.5s;
+    position: relative;
+
+}
+
+.common-btn::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 0;
+    height: 100%;
+    transition: width 0.5s, background-color 0.5s;
+    background-color: #FFF;
+}
+
+.common-btn:hover::before {
+    width: 100%;
+    background-color: #FFF;
+    z-index: -1;
+    border: 1px solid rgba(97, 91, 91, 0.4);
+}
+
+.common-btn:hover {
+    color: rgb(97, 91, 91);
+    z-index: 1;
+}

@@ -1,0 +1,114 @@
+.arrivals {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: left; /* Center the items */
+    gap: 20px; /* Add some space between items */
+    margin-top: 10vh;
+    padding: 0 2vw;
+    margin-left: 1vw;
+}
+
+.arrival-items {
+    width: 22vw; /* Fixed width for each item */
+    box-sizing: border-box;
+    margin-bottom: 15vh;
+    text-align: center;
+}
+
+.arrival-items img {
+    height: 70vh;
+    width: 100%; /* Make the image take the full width of its container */
+    margin-bottom: 4vh;
+    cursor: pointer;
+    border: none;
+    position: relative;
+}
+
+.arrival-picture1,
+.arrival-picture2 {
+    transition: opacity 0.3s ease-in-out; /* Smooth transition over 0.3 seconds */
+}
+
+.arrival-picture2 {
+    display: none;
+}
+
+.arrival-thumbnail:hover .arrival-picture1 {
+    display: none;
+}
+
+.arrival-thumbnail:hover .arrival-picture2 {
+    display: block;
+}
+
+.arrival-desc {
+    text-align: center;
+    margin-bottom: 2vh;
+}
+
+.arrival-desc-name {
+    text-decoration: none;
+    color: rgb(48, 49, 56);
+    font-size: 2.5vh;
+    letter-spacing: 0.1vw;
+}
+
+.arrival-desc-name:hover {
+    color: rgb(124, 117, 15);
+}
+
+.article-link {
+    text-decoration: none;
+}
+
+.article-link:hover {
+    text-decoration: none;
+}
+
+.arrival-price-span {
+    text-align: center;
+    font-size: 2.5vh;
+    font-weight: lighter;
+    text-decoration: none;
+    color: rgb(48, 49, 56);
+}
+
+.arrival-price-span:hover {
+    text-decoration: none;
+    color: rgb(124, 117, 15);
+    cursor: pointer;
+}
+
+.heart {
+    position: absolute;
+    font-size: 6vh;
+    bottom: 65vh;
+    left: 18.5vw;
+    font-weight: bold;
+    background-color: antiquewhite;
+    border-radius: 50%;
+    padding: 1vh;
+    cursor: pointer;
+    color: rgb(48, 49, 56);
+}
+
+.heart:hover {
+    color: white;
+    background-color: rgb(78, 77, 77);
+}
+
+.arrival-thumbnail {
+    position: relative;
+}
+
+.articles-head {
+    margin-top: 10vh;
+    text-align: center;
+}
+
+.a-head {
+    font-size: 7vh;
+    letter-spacing: 0.2vw;
+    font-weight: 350;
+    color: rgb(78, 77, 77);
+}

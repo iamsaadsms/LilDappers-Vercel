@@ -1,0 +1,1384 @@
+[{
+  "_id": {
+    "$oid": "6697dfd41a3ae41b00fec9d5"
+  },
+  "name": "Un-Stitched Men Suit",
+  "price": 5000,
+  "img1": "path/to/a1.jpg",
+  "category": "UN-STITCHED",
+  "shippingTime": "3 Weeks",
+  "color": "Blue",
+  "type": "2 Piece",
+  "fabric": "Doriah - Cotton & Silk Woven in a Square Check Pattern",
+  "section": "Men",
+  "code": "LIL00001",
+  "id": 1,
+  "timeProductAdded": {
+    "$date": "2024-07-17T15:14:28.629Z"
+  },
+  "sizes": [
+    {
+      "type": "XS",
+      "quantity": 10,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00fec9d6"
+      }
+    },
+    {
+      "type": "S",
+      "quantity": 15,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00fec9d7"
+      }
+    },
+    {
+      "type": "M",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00fec9d8"
+      }
+    },
+    {
+      "type": "L",
+      "quantity": 25,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00fec9d9"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6697dfd41a3ae41b00fec9dc"
+  },
+  "name": "Women Kurti",
+  "price": 6000,
+  "img1": "path/to/a3.jpg",
+  "img2": "path/to/a4.jpg",
+  "category": "KURTI",
+  "shippingTime": "2 Weeks",
+  "color": "Purple",
+  "type": "3 Piece",
+  "fabric": "Doria - Cotton & Silk Woven in a Square Check Pattern",
+  "section": "Women",
+  "code": "LIL00002",
+  "id": 2,
+  "timeProductAdded": {
+    "$date": "2024-07-17T15:14:28.709Z"
+  },
+  "sizes": [
+    {
+      "type": "XS",
+      "quantity": 8,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00fec9dd"
+      }
+    },
+    {
+      "type": "S",
+      "quantity": 12,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00fec9de"
+      }
+    },
+    {
+      "type": "M",
+      "quantity": 18,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00fec9df"
+      }
+    },
+    {
+      "type": "L",
+      "quantity": 22,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00fec9e0"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6697dfd41a3ae41b00fec9e3"
+  },
+  "name": "Stitched Women suit",
+  "price": 7000,
+  "img1": "path/to/a5.jpg",
+  "img2": "/a1.jpg",
+  "category": "STITCHED",
+  "shippingTime": "2 Weeks",
+  "color": "Purple",
+  "type": "3 Piece",
+  "fabric": "Doria - Cotton & Silk Woven in a Square Check Pattern",
+  "section": "Women",
+  "code": "LIL00003",
+  "id": 3,
+  "timeProductAdded": {
+    "$date": "2024-07-17T15:14:28.726Z"
+  },
+  "sizes": [
+    {
+      "type": "XS",
+      "quantity": 0,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00fec9e4"
+      }
+    },
+    {
+      "type": "S",
+      "quantity": 10,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00fec9e5"
+      }
+    },
+    {
+      "type": "M",
+      "quantity": 15,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00fec9e6"
+      }
+    },
+    {
+      "type": "L",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00fec9e7"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6697dfd41a3ae41b00fec9e9"
+  },
+  "name": "DELTA",
+  "price": 8000,
+  "img1": "path/to/aa1.jpg",
+  "img2": "path/to/aa2.jpg",
+  "category": "UN-STITCHED",
+  "shippingTime": "2 Weeks",
+  "color": "Purple",
+  "type": "3 Piece",
+  "fabric": "Doria - Cotton & Silk Woven in a Square Check Pattern",
+  "section": "Men",
+  "code": "LIL00004",
+  "id": 4,
+  "timeProductAdded": {
+    "$date": "2024-07-17T15:14:28.742Z"
+  },
+  "sizes": [
+    {
+      "type": "XS",
+      "quantity": 12,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00fec9ea"
+      }
+    },
+    {
+      "type": "S",
+      "quantity": 18,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00fec9eb"
+      }
+    },
+    {
+      "type": "M",
+      "quantity": 22,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00fec9ec"
+      }
+    },
+    {
+      "type": "L",
+      "quantity": 28,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00fec9ed"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6697dfd41a3ae41b00fec9ef"
+  },
+  "name": "Stitched Men Suit",
+  "price": 9000,
+  "img1": "path/to/aa3.jpg",
+  "img2": "path/to/aa4.jpg",
+  "category": "STITCHED",
+  "shippingTime": "2 Weeks",
+  "color": "Purple",
+  "type": "3 Piece",
+  "fabric": "Doria - Cotton & Silk Woven in a Square Check Pattern",
+  "section": "Women",
+  "code": "LIL00005",
+  "id": 5,
+  "timeProductAdded": {
+    "$date": "2024-07-17T15:14:28.754Z"
+  },
+  "sizes": [
+    {
+      "type": "XS",
+      "quantity": 7,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00fec9f0"
+      }
+    },
+    {
+      "type": "S",
+      "quantity": 14,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00fec9f1"
+      }
+    },
+    {
+      "type": "M",
+      "quantity": 21,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00fec9f2"
+      }
+    },
+    {
+      "type": "L",
+      "quantity": 25,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00fec9f3"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6697dfd41a3ae41b00fec9f5"
+  },
+  "name": "Special suit",
+  "price": 10000,
+  "img1": "path/to/b1.jpg",
+  "img2": "path/to/b2.jpg",
+  "category": "SPECIALS",
+  "shippingTime": "2 Weeks",
+  "color": "Purple",
+  "type": "3 Piece",
+  "fabric": "Doria - Cotton & Silk Woven in a Square Check Pattern",
+  "section": "Men",
+  "code": "LIL00006",
+  "id": 6,
+  "timeProductAdded": {
+    "$date": "2024-07-17T15:14:28.765Z"
+  },
+  "sizes": [
+    {
+      "type": "XS",
+      "quantity": 9,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00fec9f6"
+      }
+    },
+    {
+      "type": "S",
+      "quantity": 13,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00fec9f7"
+      }
+    },
+    {
+      "type": "M",
+      "quantity": 17,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00fec9f8"
+      }
+    },
+    {
+      "type": "L",
+      "quantity": 21,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00fec9f9"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6697dfd41a3ae41b00fec9fb"
+  },
+  "name": "Stitched Girl Suit",
+  "price": 1500,
+  "img1": "path/to/b3.jpg",
+  "img2": "path/to/b1.jpg",
+  "category": "STITCHED",
+  "shippingTime": "2 Weeks",
+  "color": "Purple",
+  "type": "3 Piece",
+  "fabric": "Doria - Cotton & Silk Woven in a Square Check Pattern",
+  "section": "Girls",
+  "code": "LIL00007",
+  "id": 7,
+  "timeProductAdded": {
+    "$date": "2024-07-17T15:14:28.775Z"
+  },
+  "sizes": [
+    {
+      "type": "XS",
+      "quantity": 6,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00fec9fc"
+      }
+    },
+    {
+      "type": "S",
+      "quantity": 12,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00fec9fd"
+      }
+    },
+    {
+      "type": "M",
+      "quantity": 18,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00fec9fe"
+      }
+    },
+    {
+      "type": "L",
+      "quantity": 24,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00fec9ff"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6697dfd41a3ae41b00feca01"
+  },
+  "name": "Girl Kurti",
+  "price": 2000,
+  "img1": "path/to/c1.jpg",
+  "img2": "path/to/c2.jpg",
+  "category": "KURTI",
+  "shippingTime": "2 Weeks",
+  "color": "Purple",
+  "type": "3 Piece",
+  "fabric": "Doria - Cotton & Silk Woven in a Square Check Pattern",
+  "section": "Girls",
+  "code": "LIL00008",
+  "id": 8,
+  "timeProductAdded": {
+    "$date": "2024-07-17T15:14:28.784Z"
+  },
+  "sizes": [
+    {
+      "type": "XS",
+      "quantity": 10,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00feca02"
+      }
+    },
+    {
+      "type": "S",
+      "quantity": 14,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00feca03"
+      }
+    },
+    {
+      "type": "M",
+      "quantity": 18,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00feca04"
+      }
+    },
+    {
+      "type": "L",
+      "quantity": 22,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00feca05"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6697dfd41a3ae41b00feca07"
+  },
+  "name": "Un-Stitched Boy Suit",
+  "price": 2500,
+  "img1": "path/to/s1.jpg",
+  "img2": "path/to/s2.jpg",
+  "category": "UN-STITCHED",
+  "shippingTime": "2 Weeks",
+  "color": "Purple",
+  "type": "3 Piece",
+  "fabric": "Doria - Cotton & Silk Woven in a Square Check Pattern",
+  "section": "Boys",
+  "code": "LIL00009",
+  "id": 9,
+  "timeProductAdded": {
+    "$date": "2024-07-17T15:14:28.794Z"
+  },
+  "sizes": [
+    {
+      "type": "XS",
+      "quantity": 8,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00feca08"
+      }
+    },
+    {
+      "type": "S",
+      "quantity": 12,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00feca09"
+      }
+    },
+    {
+      "type": "M",
+      "quantity": 16,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00feca0a"
+      }
+    },
+    {
+      "type": "L",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00feca0b"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6697dfd41a3ae41b00feca0d"
+  },
+  "name": "Boy special suit",
+  "price": 3000,
+  "img1": "path/to/a1.jpg",
+  "img2": "path/to/a2.jpg",
+  "category": "SPECIALS",
+  "shippingTime": "2 Weeks",
+  "color": "Purple",
+  "type": "3 Piece",
+  "fabric": "Doria - Cotton & Silk Woven in a Square Check Pattern",
+  "section": "Boys",
+  "code": "LIL00010",
+  "id": 10,
+  "timeProductAdded": {
+    "$date": "2024-07-17T15:14:28.803Z"
+  },
+  "sizes": [
+    {
+      "type": "XS",
+      "quantity": 5,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00feca0e"
+      }
+    },
+    {
+      "type": "S",
+      "quantity": 10,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00feca0f"
+      }
+    },
+    {
+      "type": "M",
+      "quantity": 15,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00feca10"
+      }
+    },
+    {
+      "type": "L",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00feca11"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6697dfd41a3ae41b00feca13"
+  },
+  "name": "STOP",
+  "price": 3500,
+  "img1": "path/to/a1.jpg",
+  "img2": "path/to/a2.jpg",
+  "category": "KURTI",
+  "shippingTime": "2 Weeks",
+  "color": "Purple",
+  "type": "3 Piece",
+  "fabric": "Doria - Cotton & Silk Woven in a Square Check Pattern",
+  "section": "Women",
+  "code": "LIL00011",
+  "id": 11,
+  "timeProductAdded": {
+    "$date": "2024-07-17T15:14:28.813Z"
+  },
+  "sizes": [
+    {
+      "type": "XS",
+      "quantity": 7,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00feca14"
+      }
+    },
+    {
+      "type": "S",
+      "quantity": 11,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00feca15"
+      }
+    },
+    {
+      "type": "M",
+      "quantity": 17,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00feca16"
+      }
+    },
+    {
+      "type": "L",
+      "quantity": 21,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00feca17"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6697dfd41a3ae41b00feca19"
+  },
+  "name": "SUMMER",
+  "price": 4000,
+  "img1": "path/to/a3.jpg",
+  "img2": "path/to/a4.jpg",
+  "category": "STITCHED",
+  "shippingTime": "2 Weeks",
+  "color": "Purple",
+  "type": "3 Piece",
+  "fabric": "Doria - Cotton & Silk Woven in a Square Check Pattern",
+  "section": "Women",
+  "code": "LIL00012",
+  "id": 12,
+  "timeProductAdded": {
+    "$date": "2024-07-17T15:14:28.822Z"
+  },
+  "sizes": [
+    {
+      "type": "XS",
+      "quantity": 10,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00feca1a"
+      }
+    },
+    {
+      "type": "S",
+      "quantity": 14,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00feca1b"
+      }
+    },
+    {
+      "type": "M",
+      "quantity": 18,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00feca1c"
+      }
+    },
+    {
+      "type": "L",
+      "quantity": 22,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00feca1d"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6697dfd41a3ae41b00feca1f"
+  },
+  "name": "Girls Special suit",
+  "price": 4500,
+  "img1": "path/to/a5.jpg",
+  "img2": "path/to/aa1.jpg",
+  "category": "SPECIALS",
+  "shippingTime": "2 Weeks",
+  "color": "Purple",
+  "type": "3 Piece",
+  "fabric": "Doria - Cotton & Silk Woven in a Square Check Pattern",
+  "section": "Girls",
+  "code": "LIL00013",
+  "id": 13,
+  "timeProductAdded": {
+    "$date": "2024-07-17T15:14:28.830Z"
+  },
+  "sizes": [
+    {
+      "type": "XS",
+      "quantity": 6,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00feca20"
+      }
+    },
+    {
+      "type": "S",
+      "quantity": 12,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00feca21"
+      }
+    },
+    {
+      "type": "M",
+      "quantity": 18,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00feca22"
+      }
+    },
+    {
+      "type": "L",
+      "quantity": 24,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00feca23"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6697dfd41a3ae41b00feca25"
+  },
+  "name": "Un-Stitched Boy Suit",
+  "price": 5000,
+  "img1": "path/to/aa2.jpg",
+  "img2": "path/to/aa3.jpg",
+  "category": "UN-STITCHED",
+  "shippingTime": "2 Weeks",
+  "color": "Purple",
+  "type": "3 Piece",
+  "fabric": "Doria - Cotton & Silk Woven in a Square Check Pattern",
+  "section": "Boys",
+  "code": "LIL00014",
+  "id": 14,
+  "timeProductAdded": {
+    "$date": "2024-07-17T15:14:28.839Z"
+  },
+  "sizes": [
+    {
+      "type": "XS",
+      "quantity": 8,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00feca26"
+      }
+    },
+    {
+      "type": "S",
+      "quantity": 12,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00feca27"
+      }
+    },
+    {
+      "type": "M",
+      "quantity": 16,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00feca28"
+      }
+    },
+    {
+      "type": "L",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00feca29"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6697dfd41a3ae41b00feca2b"
+  },
+  "name": "WINTER",
+  "price": 5500,
+  "img1": "path/to/aa4.jpg",
+  "img2": "path/to/a1.jpg",
+  "category": "KURTI",
+  "shippingTime": "2 Weeks",
+  "color": "Purple",
+  "type": "3 Piece",
+  "fabric": "Doria - Cotton & Silk Woven in a Square Check Pattern",
+  "section": "Women",
+  "code": "LIL00015",
+  "id": 15,
+  "timeProductAdded": {
+    "$date": "2024-07-17T15:14:28.847Z"
+  },
+  "sizes": [
+    {
+      "type": "XS",
+      "quantity": 9,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00feca2c"
+      }
+    },
+    {
+      "type": "S",
+      "quantity": 13,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00feca2d"
+      }
+    },
+    {
+      "type": "M",
+      "quantity": 17,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00feca2e"
+      }
+    },
+    {
+      "type": "L",
+      "quantity": 21,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00feca2f"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6697dfd41a3ae41b00feca31"
+  },
+  "name": "FALL",
+  "price": 6500,
+  "img1": "path/to/b1.jpg",
+  "img2": "path/to/b2.jpg",
+  "category": "SPECIALS",
+  "shippingTime": "2 Weeks",
+  "color": "Purple",
+  "type": "3 Piece",
+  "fabric": "Doria - Cotton & Silk Woven in a Square Check Pattern",
+  "section": "Men",
+  "code": "LIL00016",
+  "id": 16,
+  "timeProductAdded": {
+    "$date": "2024-07-17T15:14:28.856Z"
+  },
+  "sizes": [
+    {
+      "type": "XS",
+      "quantity": 6,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00feca32"
+      }
+    },
+    {
+      "type": "S",
+      "quantity": 11,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00feca33"
+      }
+    },
+    {
+      "type": "M",
+      "quantity": 17,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00feca34"
+      }
+    },
+    {
+      "type": "L",
+      "quantity": 21,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00feca35"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6697dfd41a3ae41b00feca37"
+  },
+  "name": "AUTUMN",
+  "price": 5000,
+  "img1": "path/to/aa2.jpg",
+  "img2": "path/to/aa3.jpg",
+  "category": "UN-STITCHED",
+  "shippingTime": "2 Weeks",
+  "color": "Purple",
+  "type": "3 Piece",
+  "fabric": "Doria - Cotton & Silk Woven in a Square Check Pattern",
+  "section": "Boys",
+  "code": "LIL00017",
+  "id": 17,
+  "timeProductAdded": {
+    "$date": "2024-07-17T15:14:28.863Z"
+  },
+  "sizes": [
+    {
+      "type": "XS",
+      "quantity": 8,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00feca38"
+      }
+    },
+    {
+      "type": "S",
+      "quantity": 12,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00feca39"
+      }
+    },
+    {
+      "type": "M",
+      "quantity": 16,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00feca3a"
+      }
+    },
+    {
+      "type": "L",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00feca3b"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6697dfd41a3ae41b00feca3d"
+  },
+  "name": "AUTUMN",
+  "price": 5000,
+  "img1": "path/to/aa2.jpg",
+  "img2": "path/to/aa3.jpg",
+  "category": "UN-STITCHED",
+  "shippingTime": "2 Weeks",
+  "color": "Purple",
+  "type": "3 Piece",
+  "fabric": "Doria - Cotton & Silk Woven in a Square Check Pattern",
+  "section": "Boys",
+  "code": "LIL00018",
+  "id": 18,
+  "timeProductAdded": {
+    "$date": "2024-07-17T15:14:28.872Z"
+  },
+  "sizes": [
+    {
+      "type": "XS",
+      "quantity": 8,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00feca3e"
+      }
+    },
+    {
+      "type": "S",
+      "quantity": 12,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00feca3f"
+      }
+    },
+    {
+      "type": "M",
+      "quantity": 16,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00feca40"
+      }
+    },
+    {
+      "type": "L",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00feca41"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6697dfd41a3ae41b00feca43"
+  },
+  "name": "AUTUMN",
+  "price": 5000,
+  "img1": "path/to/aa2.jpg",
+  "img2": "path/to/aa3.jpg",
+  "category": "UN-STITCHED",
+  "shippingTime": "2 Weeks",
+  "color": "Purple",
+  "type": "3 Piece",
+  "fabric": "Doria - Cotton & Silk Woven in a Square Check Pattern",
+  "section": "Boys",
+  "code": "LIL00019",
+  "id": 19,
+  "timeProductAdded": {
+    "$date": "2024-07-17T15:14:28.878Z"
+  },
+  "sizes": [
+    {
+      "type": "XS",
+      "quantity": 8,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00feca44"
+      }
+    },
+    {
+      "type": "S",
+      "quantity": 12,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00feca45"
+      }
+    },
+    {
+      "type": "M",
+      "quantity": 16,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00feca46"
+      }
+    },
+    {
+      "type": "L",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00feca47"
+      }
+    }
+  ],
+  "__v": 0
+},
+
+
+
+
+
+
+
+{
+  "_id": {
+    "$oid": "6697dfd41a3ae41b00fecaa1"
+  },
+  "name": "Stitched Men Suit",
+  "price": 9000,
+  "img1": "path/to/aa3.jpg",
+  "img2": "path/to/aa4.jpg",
+  "category": "STITCHED",
+  "shippingTime": "2 Weeks",
+  "color": "Purple",
+  "type": "3 Piece",
+  "fabric": "Doria - Cotton & Silk Woven in a Square Check Pattern",
+  "section": "Men",
+  "code": "LIL00006",
+  "id": 20,
+  "timeProductAdded": {
+    "$date": "2024-07-17T15:14:28.754Z"
+  },
+  "sizes": [
+    {
+      "type": "XS",
+      "quantity": 7,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00fecaa2"
+      }
+    },
+    {
+      "type": "S",
+      "quantity": 14,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00fecaa3"
+      }
+    },
+    {
+      "type": "M",
+      "quantity": 21,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00fecaa4"
+      }
+    },
+    {
+      "type": "L",
+      "quantity": 25,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00fecaa5"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6697dfd41a3ae41b00fecaa6"
+  },
+  "name": "Special suit",
+  "price": 10000,
+  "img1": "path/to/b1.jpg",
+  "img2": "path/to/b2.jpg",
+  "category": "SPECIALS",
+  "shippingTime": "2 Weeks",
+  "color": "Purple",
+  "type": "3 Piece",
+  "fabric": "Doria - Cotton & Silk Woven in a Square Check Pattern",
+  "section": "Men",
+  "code": "LIL00007",
+  "id": 21,
+  "timeProductAdded": {
+    "$date": "2024-07-17T15:14:28.765Z"
+  },
+  "sizes": [
+    {
+      "type": "XS",
+      "quantity": 9,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00fecaa7"
+      }
+    },
+    {
+      "type": "S",
+      "quantity": 13,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00fecaa8"
+      }
+    },
+    {
+      "type": "M",
+      "quantity": 17,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00fecaa9"
+      }
+    },
+    {
+      "type": "L",
+      "quantity": 21,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00fecaaa"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6697dfd41a3ae41b00fecaab"
+  },
+  "name": "Stitched Girl Suit",
+  "price": 1500,
+  "img1": "path/to/b3.jpg",
+  "img2": "path/to/b1.jpg",
+  "category": "STITCHED",
+  "shippingTime": "2 Weeks",
+  "color": "Purple",
+  "type": "3 Piece",
+  "fabric": "Doria - Cotton & Silk Woven in a Square Check Pattern",
+  "section": "Girls",
+  "code": "LIL00008",
+  "id": 22,
+  "timeProductAdded": {
+    "$date": "2024-07-17T15:14:28.775Z"
+  },
+  "sizes": [
+    {
+      "type": "XS",
+      "quantity": 6,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00fecaac"
+      }
+    },
+    {
+      "type": "S",
+      "quantity": 12,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00fecaad"
+      }
+    },
+    {
+      "type": "M",
+      "quantity": 18,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00fecaae"
+      }
+    },
+    {
+      "type": "L",
+      "quantity": 24,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00fecaaf"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6697dfd41a3ae41b00fecab0"
+  },
+  "name": "Girl Kurti",
+  "price": 2000,
+  "img1": "path/to/c1.jpg",
+  "img2": "path/to/c2.jpg",
+  "category": "KURTI",
+  "shippingTime": "2 Weeks",
+  "color": "Purple",
+  "type": "3 Piece",
+  "fabric": "Doria - Cotton & Silk Woven in a Square Check Pattern",
+  "section": "Girls",
+  "code": "LIL00009",
+  "id": 23,
+  "timeProductAdded": {
+    "$date": "2024-07-17T15:14:28.784Z"
+  },
+  "sizes": [
+    {
+      "type": "XS",
+      "quantity": 10,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00fecab1"
+      }
+    },
+    {
+      "type": "S",
+      "quantity": 14,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00fecab2"
+      }
+    },
+    {
+      "type": "M",
+      "quantity": 18,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00fecab3"
+      }
+    },
+    {
+      "type": "L",
+      "quantity": 22,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00fecab4"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6697dfd41a3ae41b00fecab5"
+  },
+  "name": "Un-Stitched Boy Suit",
+  "price": 2500,
+  "img1": "path/to/s1.jpg",
+  "img2": "path/to/s2.jpg",
+  "category": "UN-STITCHED",
+  "shippingTime": "2 Weeks",
+  "color": "Purple",
+  "type": "3 Piece",
+  "fabric": "Doria - Cotton & Silk Woven in a Square Check Pattern",
+  "section": "Boys",
+  "code": "LIL00010",
+  "id": 24,
+  "timeProductAdded": {
+    "$date": "2024-07-17T15:14:28.794Z"
+  },
+  "sizes": [
+    {
+      "type": "XS",
+      "quantity": 8,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00fecab6"
+      }
+    },
+    {
+      "type": "S",
+      "quantity": 12,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00fecab7"
+      }
+    },
+    {
+      "type": "M",
+      "quantity": 16,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00fecab8"
+      }
+    },
+    {
+      "type": "L",
+      "quantity": 20,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00fecab9"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6697dfd41a3ae41b00fecaba"
+  },
+  "name": "Boy special suit",
+  "price": 3000,
+  "img1": "path/to/a1.jpg",
+  "img2": "path/to/a2.jpg",
+  "category": "SPECIALS",
+  "shippingTime": "2 Weeks",
+  "color": "Purple",
+  "type": "3 Piece",
+  "fabric": "Doria - Cotton & Silk Woven in a Square Check Pattern",
+  "section": "Boys",
+  "code": "LIL00011",
+  "id": 25,
+  "timeProductAdded": {
+    "$date": "2024-07-17T15:14:28.804Z"
+  },
+  "sizes": [
+    {
+      "type": "XS",
+      "quantity": 7,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00fecabb"
+      }
+    },
+    {
+      "type": "S",
+      "quantity": 14,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00fecabc"
+      }
+    },
+    {
+      "type": "M",
+      "quantity": 21,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00fecabd"
+      }
+    },
+    {
+      "type": "L",
+      "quantity": 25,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00fecabe"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6697dfd41a3ae41b00fecabf"
+  },
+  "name": "Stitched Boy Suit",
+  "price": 3500,
+  "img1": "path/to/a3.jpg",
+  "img2": "path/to/a4.jpg",
+  "category": "STITCHED",
+  "shippingTime": "2 Weeks",
+  "color": "Purple",
+  "type": "3 Piece",
+  "fabric": "Doria - Cotton & Silk Woven in a Square Check Pattern",
+  "section": "Boys",
+  "code": "LIL00012",
+  "id": 26,
+  "timeProductAdded": {
+    "$date": "2024-07-17T15:14:28.814Z"
+  },
+  "sizes": [
+    {
+      "type": "XS",
+      "quantity": 6,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00fecac0"
+      }
+    },
+    {
+      "type": "S",
+      "quantity": 10,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00fecac1"
+      }
+    },
+    {
+      "type": "M",
+      "quantity": 14,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00fecac2"
+      }
+    },
+    {
+      "type": "L",
+      "quantity": 18,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00fecac3"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6697dfd41a3ae41b00fecb10"
+  },
+  "name": "Boy Kurti 100",
+  "price": 3500,
+  "img1": "path/to/a3.jpg",
+  "img2": "path/to/a4.jpg",
+  "category": "KURTI",
+  "shippingTime": "2 Weeks",
+  "color": "Purple",
+  "type": "3 Piece",
+  "fabric": "Doria - Cotton & Silk Woven in a Square Check Pattern",
+  "section": "Boys",
+  "code": "LIL00100",
+  "id": 27,
+  "timeProductAdded": {
+    "$date": "2024-07-17T15:14:28.814Z"
+  },
+  "sizes": [
+    {
+      "type": "XS",
+      "quantity": 6,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00fecb11"
+      }
+    },
+    {
+      "type": "S",
+      "quantity": 10,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00fecb12"
+      }
+    },
+    {
+      "type": "M",
+      "quantity": 14,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00fecb13"
+      }
+    },
+    {
+      "type": "L",
+      "quantity": 18,
+      "_id": {
+        "$oid": "6697dfd41a3ae41b00fecb14"
+      }
+    }
+  ],
+  "__v": 0
+}
+]

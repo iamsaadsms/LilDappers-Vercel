@@ -1,0 +1,217 @@
+.item-buy {
+    padding-top: 10vh;
+    padding-left: 50px;
+    padding-right: 50px;
+    display: flex;
+}
+
+.item-images {
+
+    display: flex;
+}
+
+.clothes {
+    height: 80vh;
+    width: 25vw;
+    padding: 5px;
+
+}
+.floating-error {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: rgba(255, 0, 0, 0.8);
+  color: white;
+  padding: 15px;
+  border-radius: 5px;
+  z-index: 1000;
+  text-align: center;
+}
+
+.item-details {
+  position: sticky;
+    width: 35vw;
+    justify-content: right;
+    padding-top: 10px;
+}
+
+.item-details.sticky {
+  position: -webkit-sticky; /* For Safari */
+  position: sticky;
+  top: 0;
+}
+
+.code {
+    font-weight: normal;
+    color: black;
+    font-size: 2.5vh;
+}
+
+
+
+.item-name {
+    letter-spacing: 2px;
+    color: rgb(48, 49, 56);
+    text-align: left;
+    font-size: 3vh;
+}
+
+.item-price {
+    line-height: 1.6;
+    font-size: 22px;
+    letter-spacing: 3px;
+    color: grey;
+    padding-bottom: 10px;
+    text-align: left;
+}
+.item-code {
+    font-weight: 100;
+    padding-bottom: 30px;
+    display: flex;
+}
+.quantity-head {
+    padding-top: 40px;
+    padding-bottom: 15px;
+    color: rgb(97, 91, 91);
+    text-align: left;
+}
+
+  .size {
+    padding-bottom: 10px;
+    color: rgb(97, 91, 91);
+  }
+  .size-head {
+    padding-top: 30px;
+    display: flex;
+    justify-content: space-between;
+  }
+  .size-head a{
+    clear: right;
+    font-size: 15px;
+  }
+  .size-head a:hover{
+    color: rgb(97, 91, 91);
+  }
+  .item-buttons {
+    height: 5vh;
+    width: 3vw;
+    border: 2px solid #e6e6e6;
+    color: #615b5b;
+    background-color: white;
+    margin-right: 5px;
+    margin-bottom: 7vh;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.item-buttons.active {
+    border-color: rgb(97, 91, 91);
+    color: white;
+    background-color: rgb(97, 91, 91);
+}
+
+
+  .cart-content {
+    max-height: 60vh; /* Set a fixed height for the container */
+    overflow-y: auto; /* Enable vertical scrolling if content overflows */
+  }
+  
+  .add-to-cart {
+    text-align: center;
+  }
+
+  .size-buttons {
+    display: flex;
+  }
+  .cart-button {
+    height: 7vh;
+    width: 100%;
+    border: 1px solid rgba(97, 91, 91, 0.4);
+    background-color: #FFF;
+    font-weight: lighter;
+    font-size: 15px;
+    letter-spacing: 2px;
+    margin-bottom: 40px;
+    position: relative;
+    color: rgb(97, 91, 91); /* Default text color */
+    transition: color 0.5s; /* Add transition for text color */
+    cursor: pointer;
+  }
+  
+  .cart-button::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 0;
+    height: 100%;
+    transition: width 0.5s, background-color 0.5s; /* Include transitions for width and background-color */
+    background-color: rgb(97, 91, 91); /* Default background color */
+  }
+  
+  .cart-button:hover::before {
+    width: 100%;
+    background-color: rgb(97, 91, 91); /* Default background color */
+    z-index: -999;
+  }
+  
+  .cart-button:hover {
+    color: #FFF; /* Hover text color */
+    z-index: 999;
+  }
+  .item-description {
+    padding-top: 10px;
+  }
+  .dropdown-details {
+    display: flex;
+    justify-content: space-between;
+    cursor: pointer;
+  }
+  .dropdown-desc{
+    color: rgb(97, 91, 91);
+    font-size: 22px;
+    padding-bottom: 10px;
+  }
+  #desc-head {
+    font-size: 14px;
+    letter-spacing: 1.5px;
+  }
+  .bold-titles{
+    font-weight: bold;
+    font-size: 11px;
+    letter-spacing: 1px;
+    text-align: justify;
+    width: 5vw;
+    padding-right: 100px;
+
+  }
+  .item-explanation {
+    text-align: left;
+    font-size: 2vh;
+    letter-spacing: 0.15vw;
+  }
+  .description-data {
+    display: flex;
+    padding-bottom: 10px;
+  }
+  .dropdown_data {
+    display: none; /* Initially hidden */
+}
+
+.dropdown_data.open {
+    display: block; /* Show when open */
+}
+
+
+  #overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.3); /* Semi-transparent black overlay */
+    z-index: 999;
+    display: none; /* Initially hidden */
+    pointer-events: none; /* Allow clicks to pass through */
+  }

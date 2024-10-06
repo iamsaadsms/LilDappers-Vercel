@@ -1,0 +1,88 @@
+/* Add the following styles to your Header.css */
+
+.Header {
+  position: -webkit-sticky; /* For Safari */
+  position: sticky;
+  top: 0;
+  z-index: 1000; /* Adjust as needed */
+  width: 100%;
+  height: 5vh;
+}
+
+.navbar-custom {
+  background-color: #ffffff !important;
+}
+
+.navbar-custom .navbar-brand {
+  color: #5f6e7c !important;
+}
+
+.navbar-custom .nav-link {
+  color: #5f6e7c !important;
+}
+
+.logo {
+  width: 2.5vw;
+  height: 5vh;
+  margin-left: 5vw;
+  margin-right: 20vw;
+}
+
+.nav-head:visited {
+  color: rgb(255, 255, 255);
+}
+
+.collapse, .navbar-collapse {
+  display: flex;
+  justify-content: space-around;
+}
+
+.navbar .dropdown-menu div[class*="col"] {
+  margin-bottom: 1rem;
+}
+
+.navbar .dropdown-menu {
+  border: none;
+  background-color: rgb(223, 223, 223) !important;
+}
+
+@media screen and (min-width: 992px) {
+  .navbar {
+    padding-top: 0px;
+    padding-bottom: 0px;
+  }
+
+  .navbar .nav-item {
+    padding: .5rem .5rem;
+    margin: 0 .25rem;
+  }
+
+  .navbar .dropdown {
+    position: static;
+  }
+
+  .navbar .dropdown-menu {
+    width: 99.5vw;
+    left: -3.9vw;
+    right: 0vw;
+    top: 10px;
+    display: block;
+    visibility: hidden;
+    opacity: 0;
+    transition: visibility 0s, opacity 0.3s linear;
+    margin: 6.8vh;
+
+  }
+
+  .navbar .dropdown:hover .dropdown-menu, .navbar .dropdown .dropdown-menu:hover {
+    display: block;
+    visibility: visible;
+    opacity: 1;
+    transition: visibility 0s, opacity 0.3s linear;
+
+  }
+
+  .navbar .dropdown-menu {
+    border: 2px solid rgba(0,0,0,.15);
+  }
+}

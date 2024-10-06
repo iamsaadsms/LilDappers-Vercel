@@ -1,0 +1,96 @@
+.Trending {
+    margin-top: 10vh;
+    margin-bottom: 10vh;
+  }
+  
+  .carousel .carousel-inner .carousel-item {
+    display: flex;
+    justify-content: space-between;
+
+  }
+  
+  .carousel .carousel-inner .carousel-item .col-xs-3 {
+    max-width: 25%;
+    opacity: 0.5; /* Initially reduce opacity for all images */
+    transition: opacity 0.5s ease; /* Add transition for smooth opacity change */
+  }
+  
+  .carousel .carousel-inner .carousel-item.active .col-xs-3 {
+    opacity: 1; /* Set opacity back to 1 for active images */
+  }
+  
+  .d-block {
+    height: 65vh;
+    margin-bottom: 2vh;
+  }
+  
+  .carousel-control-prev,
+  .carousel-control-next {
+    width: 5%;
+    top: 500vh; /* Center vertically */
+    transform: translateY(-50%);
+    background-color: rgba(0, 0, 0, 0.8); /* Background color */
+    border-radius: 50%; /* Rounded shape */
+    height: 10vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .carousel-control-prev-icon,
+  .carousel-control-next-icon {
+    position: absolute;
+    color: rgb(255, 255, 255);
+  }
+  
+  .carousel-control-prev {
+    left: 10vw;
+
+  }
+  
+  .carousel-control-next {
+    right: 10vw;
+  }
+  
+  .hidden {
+    display: none;
+  }
+  
+  .trending-head {
+    margin-top: 10vh;
+    margin-bottom: 5vh;
+    text-align: center;
+  }
+  
+  .t-head {
+    text-align: center;
+    font-size: 6vh;
+    color: rgb(97, 91, 91);
+    font-weight: lighter;
+  }
+  
+  .t-name:hover,
+  .t-price:hover {
+    color: rgb(148, 129, 21);
+    cursor: pointer;
+    font-weight: lighter;
+  }
+  
+  .t-name,
+  .t-price {
+    font-weight: lighter;
+  }
+  
+  .t-price {
+    color: rgba(97, 91, 91, 0.7);
+  }
+  
+.item-details {
+    margin-top: 1vh;
+    margin-left: 8vw;
+}
+
+/* .d-p {
+  text-align: left;
+  padding-right: 2vw;
+} */

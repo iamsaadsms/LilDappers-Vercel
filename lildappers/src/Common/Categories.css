@@ -1,0 +1,40 @@
+.Categories {
+    display: flex;
+    flex-wrap: wrap; /* Ensure items wrap to the next line */
+    justify-content: space-between;
+    padding: 10vh 8vw 0; /* Add padding for spacing */
+    cursor: pointer;
+}
+
+.cat {
+    flex: 1 1 45%; /* Adjust to ensure two items per row */
+    box-sizing: border-box;
+    position: relative;
+    margin: 8vh 0; /* Vertical margin to separate rows */
+    text-align: center;
+}
+
+.cat:hover {
+    opacity: 0.8;
+}
+
+.cat-img {
+    width: 40vw;
+    height: 90vh; /* Maintain aspect ratio */
+}
+
+.cat-name {
+    position: absolute;
+    bottom: 50vh;
+    left: 0.8vw;
+    font-size: 5vh;
+    color: rgb(255, 255, 255);
+    background-color: rgba(0, 0, 0, 0.5); /* Adds a background to text for better readability */
+    width: 40vw;
+}
+
+.category-btn {
+    position: absolute;
+    bottom: 20vh;
+    left: 11vw;
+}

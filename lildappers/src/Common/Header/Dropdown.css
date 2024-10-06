@@ -1,0 +1,49 @@
+.Dropdown .container {
+    padding: 1rem;
+    padding-left: 5vw;
+}
+.Dropdown .row {
+    margin: 0;
+}
+.Dropdown .col-md-4 {
+    padding: 0.5rem;
+    padding-right: 10vw;
+}
+.Dropdown .nav-item .nav-link {
+    color: #333;
+    font-weight: bold;
+}
+.img-fluid {
+    width: 25vw;
+    height: 30vh;
+    margin-top: 1rem;
+    object-fit: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nav-link {
+    margin-bottom: 1vh;
+    line-height: 0.25vh;
+    color: rgb(255, 255, 255);
+    font-size: 2.5vh;
+}
+
+.nav-link-sub {
+    color: #5f6e7c;
+    text-decoration: none;
+
+}
+
+.nav-link-head{
+    font-size: 3vh;
+    text-decoration: none;
+    color: #5f6e7c;
+}
+
+.nav-item-list {
+    padding-bottom: 1.5vh;
+    padding-left: 01vw;
+}
+

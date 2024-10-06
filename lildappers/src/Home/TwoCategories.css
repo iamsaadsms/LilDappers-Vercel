@@ -1,0 +1,47 @@
+.two-imgs {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 5vw;
+    margin-right: 5vw;
+    margin-bottom: 10vh;
+}
+
+.t-img {
+    width: 44vw;
+    height: 80vh;
+    cursor: pointer;
+}
+
+.right-img:hover {
+    opacity: 0.8;
+}
+
+.left-img:hover {
+    opacity: 0.8;
+}
+
+.tc-head {
+    text-align: center;
+    font-size: 6vh;
+    color: rgb(97, 91, 91);
+    font-weight: lighter;
+
+}
+
+.two-cat-head {
+    padding-bottom: 5vh;
+    text-align: center;
+}
+
+.tc-data {
+    background: rgb(255, 38, 38, 0.7);
+    font-size: 4vh;
+    width: 44vw;
+    height: 6vh;
+    color: rgb(255, 255, 255);
+    font-size: 4vh;
+    font-weight: bold;
+    position: absolute;
+    top: 390vh;
+    text-align: center;
+}

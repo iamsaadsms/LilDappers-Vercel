@@ -1,0 +1,53 @@
+.img-home {
+    display: flex;
+    margin-left: 15vw;
+    margin-right: 15vw;
+    margin-top: 5vh;
+    justify-content: space-around;
+}
+
+.img1 {
+    width: 40vw;
+    height: 100vh;
+    transition: transform 4s ease-in-out; 
+}
+
+.img2, .img3 {
+    width: 20vw;
+    height: 45vh;
+    margin-bottom: 10vh;
+    transition: transform 4s ease-in-out;
+}
+
+img {
+    object-fit: cover;
+    position: relative;
+    cursor: pointer;
+    overflow: hidden;
+}
+
+.left-img {
+    overflow: hidden;
+}
+
+.left-img:hover .img1 {
+    transform: scale(1.2); 
+}
+
+
+.images-div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden; 
+    transition: transform 4s ease; 
+}
+
+.images-div:hover .img2 {
+    transform: scale(1.2); 
+}
+
+.images-div:hover .img3 {
+    transform: scale(1.2); 
+}
