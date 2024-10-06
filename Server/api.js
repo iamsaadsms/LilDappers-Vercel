@@ -7,7 +7,8 @@ const app = express();
 const PORT = process.env.PORT || 5000;
 
 // MongoDB connection string
-const MONGODB_URI = 'mongodb://localhost:27017/LilDappers';
+const MONGODB_URI = process.env.MONGODB_URI || 'mongodb://localhost:27017/LilDappers';
+
 
 // Connect to MongoDB
 mongoose.connect(MONGODB_URI).then(() => {
